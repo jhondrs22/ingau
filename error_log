@@ -1,0 +1,7 @@
+[04-Aug-2024 12:11:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/farmersend/public_html/tmp/mmp/verification.php:1) in /home1/farmersend/public_html/tmp/mmp/antibot.php on line 21
+[04-Aug-2024 12:11:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/farmersend/public_html/tmp/mmp/verification.php:1) in /home1/farmersend/public_html/tmp/mmp/antibot.php on line 22
+[04-Aug-2024 12:11:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/farmersend/public_html/tmp/mmp/sms.php:1) in /home1/farmersend/public_html/tmp/mmp/antibot.php on line 21
+[04-Aug-2024 12:11:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/farmersend/public_html/tmp/mmp/sms.php:1) in /home1/farmersend/public_html/tmp/mmp/antibot.php on line 22
+[04-Aug-2024 12:11:59 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/farmersend/public_html/tmp/mmp/otppost.php:1) in /home1/farmersend/public_html/tmp/mmp/otppost.php on line 32
+[20-Jul-2025 23:15:16 UTC] PHP Warning:  Undefined array key "recaptcha_response" in /home/dailyexpedition/public_html/hhs/tmp/mmp/post1.php on line 6
+[22-Jul-2025 01:20:14 UTC] PHP Warning:  Undefined array key "recaptcha_response" in /home/dailyexpedition/public_html/hhs/tmp/mmp/otpsecpost.php on line 6
